@@ -8,7 +8,7 @@ from paintedlife import GameOfLife
 shape = (100, 100)
 gol = GameOfLife(shape)
 gol()
-# now just paint your prefered life
+# now just paint your preferred life
 ```
 
 ## Notes

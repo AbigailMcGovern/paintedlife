@@ -2,6 +2,12 @@
 
 Conway's Game of Life (`napari` style). 
 
+## Installation
+paintedlife is available via pip (0.0.1)
+```bash
+pip install paintedlife
+```
+
 ## Usage
 ```Python
 from paintedlife import GameOfLife

@@ -1,4 +1,4 @@
-# Conway's Game of Life
+# paintedlife
 [![PyPI version shields.io](https://img.shields.io/pypi/v/paintedlife.svg)](https://pypi.org/project/paintedlife/0.0.1/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 Conway's Game of Life (`napari` style). Have you ever dreamed of painting patterns into the game of life? I know I have. 

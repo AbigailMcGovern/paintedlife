@@ -1,4 +1,4 @@
 scipy
 numpy
 napari[all]
-magicgui
+magicgui==0.1.6

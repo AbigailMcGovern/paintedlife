@@ -126,7 +126,7 @@ class GameOfLife(PatternGenerator):
         e = partial(evolve, self)
         e = partial(e, self.viewer)
         e = partial(e, self.timeit)
-        e = magicgui(e, call_button='Evolve', layout='form')
+        e = magicgui(e, call_button='Evolve')
         evolve_gui = e.Gui()
         self.viewer.window.add_dock_widget(evolve_gui)
         self.viewer.layers.events.changed.connect(lambda x: evolve_gui.refresh_choices())
